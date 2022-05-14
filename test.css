@@ -1,6 +1,6 @@
 body {
   width: 400px;
-  margin: auto;
+  margin: auto;     /* this will align page center */
 }
 
 h1 {
