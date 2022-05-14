@@ -1,0 +1,9 @@
+body {
+  width: 400px;
+  margin: auto;
+}
+
+h1 {
+  background-color: aqua;
+  text-align: center;
+}
